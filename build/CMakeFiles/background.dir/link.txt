@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\background.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\background.dir/objects.a @CMakeFiles\background.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -shared -o libbackground.dll -Wl,--out-implib,libbackground.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\background.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\background.dir\linkLibs.rsp

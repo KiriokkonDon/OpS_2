@@ -1,0 +1,5 @@
+C:/Users/Incognitus/OpS/Lab2/build/CMakeFiles/background.dir
+C:/Users/Incognitus/OpS/Lab2/build/CMakeFiles/main.dir
+C:/Users/Incognitus/OpS/Lab2/build/CMakeFiles/subprogram.dir
+C:/Users/Incognitus/OpS/Lab2/build/CMakeFiles/edit_cache.dir
+C:/Users/Incognitus/OpS/Lab2/build/CMakeFiles/rebuild_cache.dir
